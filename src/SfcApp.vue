@@ -22,7 +22,7 @@
         },
         beforeMount() {
             this.columnDefs = [
-                {headerName: 'Make', field: 'make'},
+                {headerName: 'Makey', field: 'make'},
                 {headerName: 'Model', field: 'model'},
                 {headerName: 'Price', field: 'price'}
             ];
