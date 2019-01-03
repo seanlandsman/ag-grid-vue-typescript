@@ -4,7 +4,7 @@ import {AgGridVue} from 'ag-grid-vue';
 
 @Component({
     template: `
-        <ag-grid-vue style="width: 500px; height: 500px;"
+        <ag-grid-vue style="width: 500px; height: 150px;"
                  class="ag-theme-balham"
                  :columnDefs="columnDefs"
                  :rowData="rowData">
